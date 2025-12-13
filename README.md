@@ -36,7 +36,7 @@ A complete solution for interfacing the XTX XTSD04GLGEAG SD card chip with Ardui
 - User-friendly serial menu system
 
 ## 🎥 Video Tutorial
-Watch the complete build and demo on YouTube: [Link to your video](https://youtu.be/SjTzZg8oAno)
+Watch the complete build and demo on YouTube: [Full tutorial](https://youtu.be/SjTzZg8oAno)
 
 ## 🤝 Contributing
 Feel free to fork, modify, and submit pull requests. Issues and feature requests are welcome!
