@@ -13,7 +13,7 @@ A complete solution for interfacing the XTX XTSD04GLGEAG SD card chip with Ardui
 ## 🛠️ Hardware Requirements
 - XTX XTSD04GLGEAG chip
 - Arduino board (Uno, Nano, Mega, etc.)
-- Custom PCB (files included) or breadboard setup
+- Custom PCB (files included) <a href="https://diy-guy-chris.365.altium.com/designs/40425BD8-8FB2-4501-864B-80105A0BA3D3" target="_blank">Click Here to check</a> 
 - SD card reader (for initial testing)
 
 ## 📁 Repository Structure
