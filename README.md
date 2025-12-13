@@ -20,10 +20,9 @@ A complete solution for interfacing the XTX XTSD04GLGEAG SD card chip with Ardui
 - `/Arduino` - Complete Arduino sketch with serial interface
 - `/PCB` - Gerber files, schematic, and BOM for breakout board
 - `/Documentation` - Wiring diagrams and assembly guide
-- `/Examples` - Additional example sketches
 
 ## 🔧 Quick Start
-1. **Order PCB**: Use Gerber files in `/PCB/Gerber_Files/`
+1. **Order PCB**: Use Gerber files in `/PCB/GERBER/` [Order here](https://jlcpcb.com/?from=TIP)
 2. **Assemble**: Solder XTSD chip and SIL connectors
 3. **Wire to Arduino**: Follow wiring diagram in `Documentation/`
 4. **Upload Code**: Use Arduino IDE with SdFat library
@@ -37,7 +36,7 @@ A complete solution for interfacing the XTX XTSD04GLGEAG SD card chip with Ardui
 - User-friendly serial menu system
 
 ## 🎥 Video Tutorial
-Watch the complete build and demo on YouTube: [Link to your video]
+Watch the complete build and demo on YouTube: [Link to your video](https://youtu.be/SjTzZg8oAno)
 
 ## 🤝 Contributing
 Feel free to fork, modify, and submit pull requests. Issues and feature requests are welcome!
@@ -49,3 +48,4 @@ MIT License - see LICENSE file for details
 - XTX for the XTSD04GLGEAG chip
 - Bill Greiman for the SdFat Arduino library
 - JLCPCB for PCB manufacturing
+- Altium Develop for the online accessibility
