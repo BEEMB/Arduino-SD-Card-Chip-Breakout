@@ -1,4 +1,9 @@
 # XTX XTSD04GLGEAG SD Card Interface
+
+![electronics](https://img.shields.io/badge/Project-electronics-blue)
+![Open Source](https://img.shields.io/badge/Open--Source-Yes-green)
+![PCB](https://img.shields.io/badge/PCB-Custom_Designed-orange)
+
 A complete solution for interfacing the XTX XTSD04GLGEAG SD card chip with Arduino using SPI communication. This project includes PCB design files, Arduino code with a user-friendly serial interface, and comprehensive documentation.
 
 ![Project Banner](/Images/Arduino%20SD%20Card%20Chip%20Hacking.png)
