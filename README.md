@@ -50,7 +50,7 @@ Feel free to fork, modify, and submit pull requests. Issues and feature requests
 MIT License - see LICENSE file for details
 
 ## 🙏 Acknowledgments
-- *XTX* for the XTSD04GLGEAG chip
-- *Bill Greiman* for the SdFat Arduino library
-- *JLCPCB* for PCB manufacturing
-- *Altium Develop* for the online accessibility
+- **XTX** for the XTSD04GLGEAG chip
+- **Bill Greiman** for the SdFat Arduino library
+- [**JLCPCB**](https://jlcpcb.com/?from=TIP) for reliable PCB fabrication services
+- [**Altium**](https://www.altium.com/yt/diyguychris) for providing professional PCB design tools
